@@ -1,0 +1,17 @@
+1. Create a spring with maven project
+
+2. Add dependencies -> mysql connector, hibernate
+
+3. Create hibernate config file
+
+4. Create Java object and map it with db using annotations.
+	- No args constructor
+	- Setters and Getters
+
+5. Create Main App:
+	- Build session factory -> hibernate config file.
+	- Get session from session factory.
+	- Open transaction.
+	- Perform CRUD.
+	- Commit.
+	- Close session and session factory.

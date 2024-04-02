@@ -1,0 +1,8 @@
+
+
+java:S2095"KUse try-with-resources or close this "EntityManager" in a "finally" clause.(ÇÌØ8ËÜü©è1J$1700d0e2-d715-4b09-8a69-2925d9a8db49
+l	java:S106"+Replace this use of System.out by a logger.(ïÂ‡y8¯Œî©è1J$ff4994d6-08d4-451e-8e12-61871a8c8f5e
+r	java:S106"+Replace this use of System.out by a logger.(Û¤Ééûÿÿÿÿ8±Œî©è1J$ec2108a1-a96f-4b7c-b886-e983b276edd3
+m	java:S106"+Replace this use of System.out by a logger.(„íí8²Œî©è1J$af8018d4-62cd-44b8-83fb-4b0044b9236f
+r	java:S106"+Replace this use of System.out by a logger.(É½ª™øÿÿÿÿ8êğô©è1J$cc4a757b-f7f6-48a6-9b7d-25c2e3ca1641
+L	java:S106#"+Replace this use of System.out by a logger.(ãÉ®îüÿÿÿÿ8ñ÷ı©è1

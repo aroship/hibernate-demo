@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÿÂÂüÿÿÿÿ8Âò‡ƒè1J$5208d94d-f280-4520-88d4-8944fe0da86b
+o
+java:S1874)",Remove this use of "save"; it is deprecated.(ÚòÂ8£‚ƒè1J$0a3cb63f-653c-4b82-b7bc-4e368f9a59e0
+t
+java:S1874*",Remove this use of "save"; it is deprecated.(£æã¾ùÿÿÿÿ8£‚ƒè1J$e8e0563e-000d-4dd4-b65f-397b408af04f
+r	java:S106/"+Replace this use of System.out by a logger.(â¬—›ùÿÿÿÿ8Æò‡ƒè1J$f630ef6f-d911-4d31-95a1-3f8126ebd130
+s
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ûšƒè1J$1bd9a631-c5e7-4317-a11e-933521d87064

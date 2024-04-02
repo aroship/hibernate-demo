@@ -1,0 +1,6 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÓÍÍØÿÿÿÿÿ8³ÙÑÔé1J$52782bb4-9581-4b97-b329-c520375e2f1d
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(ÅÀåøÿÿÿÿ8ˆÀÛÔé1J$20fadc85-651b-4b71-8a26-d944bf9e4a07
+r	java:S106("+Replace this use of System.out by a logger.(ãÉ®îüÿÿÿÿ8·ÙÑÔé1J$e848ecdc-9cd1-4d09-bb9f-54c5424c9a16
+s
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÀÛÔé1J$c182aa4c-6650-4ecd-9d5a-5f4363437a63

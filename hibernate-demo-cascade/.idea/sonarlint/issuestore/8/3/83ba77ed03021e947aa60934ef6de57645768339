@@ -1,0 +1,6 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÿÂÂüÿÿÿÿ8ÑóñÔé1J$4d6f845a-9996-46c5-a9ee-12d746a150c6
+r	java:S106 "+Replace this use of System.out by a logger.(ãâ»óşÿÿÿÿ8ÓóñÔé1J$ea92737a-09d4-40d7-a894-2401034f5340
+o
+java:S1874-",Remove this use of "save"; it is deprecated.(’¿¥Ó8ØóñÔé1J$40f87bf2-563b-4a1b-8e4a-bc6e59c2049b
+r	java:S1062"+Replace this use of System.out by a logger.(â¬—›ùÿÿÿÿ8ÛóñÔé1J$2161c3a4-6966-4fae-9d9e-27692cd3aa89

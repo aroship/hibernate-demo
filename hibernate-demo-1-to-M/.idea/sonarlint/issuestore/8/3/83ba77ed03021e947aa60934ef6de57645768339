@@ -1,0 +1,10 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÿÂÂüÿÿÿÿ8íÂîè1J$b9fa6cf8-4eee-43eb-b96e-b024672dd117
+r	java:S106 "+Replace this use of System.out by a logger.(ãâ»óşÿÿÿÿ8îÂîè1J$998b9710-8309-44be-86a9-a28015842bc8
+o
+java:S1874-",Remove this use of "save"; it is deprecated.(’¿¥Ó8ñÂîè1J$702d7904-143e-4930-985c-e65461ae69f5
+‚
+java:S1612.":Replace this lambda with method reference 'session::save'.(¡ˆ¹ªùÿÿÿÿ8Ş›á¨è1J$08831f19-bfa6-4a34-aa52-da796c6d47ae
+t
+java:S1874.",Remove this use of "save"; it is deprecated.(¡ˆ¹ªùÿÿÿÿ8â›á¨è1J$5826d07c-e95f-483a-a5f6-fcdb6746d115
+r	java:S1063"+Replace this use of System.out by a logger.(â¬—›ùÿÿÿÿ8ôÂîè1J$e8b5d184-75f9-4321-9e82-cd427219fe0b

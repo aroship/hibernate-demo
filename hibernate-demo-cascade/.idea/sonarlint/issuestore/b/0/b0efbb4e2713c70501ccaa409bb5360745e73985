@@ -1,0 +1,6 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ÖÜÅ8ÛïôÔé1J$03fcfeda-bb17-4fc6-8836-017c38c1f5b9
+l	java:S106""+Replace this use of System.out by a logger.(¬·$8İïôÔé1J$b4984212-f81d-436a-bf98-2522d20d3d25
+p
+java:S1874#".Remove this use of "delete"; it is deprecated.(Ø¨ùL8ßïôÔé1J$77fe924c-f73c-459f-97a5-755cc3c0eaf2
+m	java:S106("+Replace this use of System.out by a logger.(ò°íü8àïôÔé1J$132f2e00-7ca3-4ea3-a8bb-5b78e272c661

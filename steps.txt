@@ -15,3 +15,4 @@
 	- Perform CRUD.
 	- Commit.
 	- Close session and session factory.
+6.Exit
